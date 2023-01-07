@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class JavaApplication89 {
+public class Solving {
 
     private static final Scanner sc = new Scanner(System.in);
 
